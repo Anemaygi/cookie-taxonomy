@@ -1,0 +1,337 @@
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,cookietest=1; SameSite=Strict;,consent_compliance,1682669056956.352051,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,cookietest=1; SameSite=Strict; expires=Thu, 01-Jan-1970 00:00:01 GMT,consent_compliance,1682669056959.455078,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_vid=747bfbcf1c40a0b2212fa44765e7ecd2; path=/; expires=Fri, 05 May 2023 08:04:16 GMT,consent_compliance,1682669056990.433105,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,__gfp_64b=fJrXbQDR_qM1okkrrQy3r5w5Cv1xVV_7ACAE8yaXOc3.Q7|1682669058; path=/; domain=ripost.hu; expires=Mon, 27 May 2024 08:04:18 GMT,consent_compliance,1682669058873.758057,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,ao-fpgad=%7B%22fpcRequired%22%3Afalse%2C%22checkTS%22%3A1682669059628%2C%22domain%22%3A%22ripost.hu%22%7D;domain=ripost.hu;path=/;expires=Wed, 22 May 2024 08:04:19 GMT;SameSite=Lax;,consent_compliance,1682669059628.228027,consent_compliance_line
+0,consent_compliance,35,consent_compliance,https://script.hotjar.com/modules.58186d35f175af355542.js,consent_compliance,_hjSessionUser_1838254=eyJpZCI6IjRjMmM1N2RjLWM2NzctNWNlZS1hNzcwLTAyN2Q5MWVlOTQxNyIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwMjIsImV4aXN0aW5nIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Sat, 27 Apr 2024 08:04:20 GMT,consent_compliance,1682669060043.948975,consent_compliance_line
+0,consent_compliance,35,consent_compliance,https://script.hotjar.com/modules.58186d35f175af355542.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:20 GMT,consent_compliance,1682669060044.416016,consent_compliance_line
+0,consent_compliance,35,consent_compliance,https://script.hotjar.com/modules.58186d35f175af355542.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:06:20 GMT,consent_compliance,1682669060045.366943,consent_compliance_line
+0,consent_compliance,35,consent_compliance,https://script.hotjar.com/modules.58186d35f175af355542.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:20 GMT,consent_compliance,1682669060045.743896,consent_compliance_line
+0,consent_compliance,35,consent_compliance,https://script.hotjar.com/modules.58186d35f175af355542.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:20 GMT,consent_compliance,1682669060048.945068,consent_compliance_line
+0,consent_compliance,41,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-RRZJ4VY66Q&l=dataLayer&cx=c,consent_compliance,_ga_RRZJ4VY66Q=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; expires=Sun, 27 Apr 2025 08:04:21 GMT; domain=ripost.hu; ,consent_compliance,1682669061288.037109,consent_compliance_line
+0,consent_compliance,41,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-RRZJ4VY66Q&l=dataLayer&cx=c,consent_compliance,_ga_RRZJ4VY66Q=GS1.1.1682669061.1.0.1682669061.60.0.0; path=/; expires=Sun, 27 Apr 2025 08:04:21 GMT; domain=ripost.hu; ,consent_compliance,1682669061290.894043,consent_compliance_line
+0,consent_compliance,41,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-RRZJ4VY66Q&l=dataLayer&cx=c,consent_compliance,_ga=GA1.1.62100653.1682669061; path=/; expires=Sun, 27 Apr 2025 08:04:21 GMT; domain=ripost.hu; ,consent_compliance,1682669061293.572998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669076744.100098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669078976.157959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669090676.988037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669090680.495117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669091942.437012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669091947.638916,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:52 GMT,consent_compliance,1682669092511.377930,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:52 GMT,consent_compliance,1682669092517.135986,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:34:52 GMT,consent_compliance,1682669092522.211914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095116.741943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095121.701904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095657.031006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095659.908936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095938.977051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669095940.950928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669096404.525879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669096405.550049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669097839.006104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669101548.146973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669101551.006104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669103949.923096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669103951.779053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669105611.996094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669105614.370117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669107810.044922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669107811.753906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669114123.349121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669114126.306885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669114987.269043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669114991.080078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669116748.604004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669116750.470947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669118423.280029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669118424.980957,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669119923.062988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669119924.833984,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:07:20 GMT,consent_compliance,1682669120000.353027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669120596.447021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669121006.070068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669121007.916016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669122348.092041,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:22 GMT,consent_compliance,1682669122573.837891,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:22 GMT,consent_compliance,1682669122574.788086,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:22 GMT,consent_compliance,1682669122575.819092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669125307.585938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669125309.414062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669126977.064941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669126978.899902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669128525.958008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669128528.282959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669129260.016113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669129262.311035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669130936.545898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669130940.659912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669132345.090088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669132347.395996,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669132965.642090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669132968.905029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669134647.738037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669134652.595947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669136309.627930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669136311.592041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669137879.562988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669137881.479004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669138598.441895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669138605.854004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669140264.903076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669140266.966064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669140784.964111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669140787.459961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669142380.565918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669142382.376953,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669142959.211914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669142961.080078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669144531.545898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669144539.439941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669146043.184082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669146044.781006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669147421.308105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669147426.287109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669148917.650879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669148919.399902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669149581.530029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669149585.236084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669151378.864014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669151381.160889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669151884.235107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669151889.545898,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:52 GMT,consent_compliance,1682669152724.875000,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:52 GMT,consent_compliance,1682669152725.585938,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:35:52 GMT,consent_compliance,1682669152726.101074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669153446.509033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669153448.121094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669154060.750977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669154062.565918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669156775.287109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669156778.085938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669157285.823975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669157288.891113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669158842.474121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669158844.383057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669160301.436035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669160306.882080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669160814.902100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669160818.113037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669162365.225098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669162367.989014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669163857.008057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669163859.763916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669164329.094971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669164336.705078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669166056.294922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669166060.985107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669167506.419922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669167511.735107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669169118.327881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669169121.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669169661.049072,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669169670.950928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669171158.781006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669171160.364990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669172709.334961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669172711.260986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669174145.242920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669174451.425049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669174456.135986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669175084.982910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669175089.073975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669176692.554932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669176694.284912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669177205.384033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669177209.030029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669179874.447021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669179879.149902,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:08:20 GMT,consent_compliance,1682669180057.878906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669181401.097900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669181402.868896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669181961.800049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669181963.820068,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:23 GMT,consent_compliance,1682669183034.812988,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:23 GMT,consent_compliance,1682669183050.665039,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:23 GMT,consent_compliance,1682669183051.531006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669184928.821045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669184931.508057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669185500.560059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669185504.746094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669187094.065918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669187096.552979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669187648.729980,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669187653.407959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669189566.821045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669189570.592041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669191068.642090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669191070.565918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669191690.985107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669191695.794922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669193343.553955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669193345.147949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669194008.680908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669194013.669922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669195587.420898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669195591.615967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669197110.090088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669197113.187988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669197690.939941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669197700.547119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669199312.519043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669199316.750977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669201442.678955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669201445.123047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669201915.629883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669202134.476074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669202140.204102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669204003.938965,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669204010.985107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669205593.762939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669205595.604980,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669206173.022949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669206177.054932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669207913.677979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669207915.729004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669208719.365967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669208721.918945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669210610.509033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669210612.393066,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:53 GMT,consent_compliance,1682669213274.562988,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:53 GMT,consent_compliance,1682669213275.552979,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:36:53 GMT,consent_compliance,1682669213276.159912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669213358.868896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669213362.981934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669213826.709961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669213831.868896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669215334.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669215336.368896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669215788.456055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669215797.239990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669217675.718018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669217680.687012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669219066.503906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669219433.773926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669219436.404053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669219911.581055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669219913.736084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669221515.301025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669221517.905029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669223001.467041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669223003.758057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669224354.837891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669224359.659912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669224946.912109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669225448.802002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669225451.054932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669228226.143066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669228228.160889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669228813.422119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669228821.996094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669230437.604004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669230439.874023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669230988.707031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669230991.294922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669232509.572021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669232512.187988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669234010.717041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669234012.836914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669234797.664062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669234799.733887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669236831.615967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669236834.499023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669238330.400879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669238627.736084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669238629.620117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669239338.263916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669239340.028076,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:09:20 GMT,consent_compliance,1682669240014.108887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669240965.775879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669240969.043945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669243053.193115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669243055.353027,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:23 GMT,consent_compliance,1682669243368.888916,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:23 GMT,consent_compliance,1682669243370.043945,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:23 GMT,consent_compliance,1682669243370.870117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669244697.625000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669245189.613037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669245192.801025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669246981.784912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669246984.492920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669249877.470947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669249880.617920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669251515.325928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669251517.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669253801.143066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669253810.597900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669254314.374023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669254317.594971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669256215.743896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669256218.212891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669256940.169922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669256943.235107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669260737.764893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669260744.378906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669262179.898926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669262182.118896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669263038.391113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669263541.975098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669263544.083008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669265115.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669265472.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669265474.409912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669267005.438965,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669267009.549072,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669268509.830078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669268511.460938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669269075.910889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669269080.983887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669270661.108887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669270663.150879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669271139.766113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669271143.907959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669273304.699951,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669273313.469971,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:53 GMT,consent_compliance,1682669273406.267090,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:53 GMT,consent_compliance,1682669273427.729980,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:37:53 GMT,consent_compliance,1682669273429.668945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669276063.145996,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669276065.864990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669276581.303955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669276584.621094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669278197.927979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669278200.945068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669279671.898926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669279676.746094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669281232.065918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669281234.862061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669281732.559082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669281735.278076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669284477.016113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669284479.767090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669285930.115967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669285931.947998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669287478.708984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669287480.645020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669299038.960938,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:10:20 GMT,consent_compliance,1682669300001.529053,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:38:23 GMT,consent_compliance,1682669303453.166992,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:38:23 GMT,consent_compliance,1682669303454.126953,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:38:23 GMT,consent_compliance,1682669303455.034912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669316228.875000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669319682.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669321088.935059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669325365.096924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669327654.905029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669328085.367920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://ripost.hu/,consent_compliance,1682669328886.778076,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,FCCDCF=;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1682669328901.539062,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,FCCDCF=;domain=ripost.hu;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1682669328902.431885,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,FCCDCF=%5Bnull%2Cnull%2Cnull%2C%5B%22CPq7n0APq7n0AEsABDHUDBCgAAAAAAAAAA6gAAAMEgBAGfAYIAAA.YAAAAAAAAAA%22%2C%221~%22%2C%22D09D6F8D-0342-46EF-BC7E-9FAD23678AAE%22%5D%2Cnull%2Cnull%2C%5B%5D%5D;domain=ripost.hu;path=/;expires=Wed, 22 May 2024 08:08:48 GMT,consent_compliance,1682669328903.787109,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,FCNEC=;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1682669331489.049072,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,FCNEC=;domain=ripost.hu;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1682669331490.308105,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjAbsoluteSessionInProgress=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:39:03 GMT,consent_compliance,1682669343038.481934,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjSession_1838254=eyJpZCI6IjEyNmE0ZjJjLTc2ZjAtNDdiOS1iMDkxLWEyYzViM2M4Zjc0NCIsImNyZWF0ZWQiOjE2ODI2NjkwNjAwNDUsImluU2FtcGxlIjpmYWxzZX0=; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:39:03 GMT,consent_compliance,1682669343039.458008,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjFirstSeen=1; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:39:03 GMT,consent_compliance,1682669343041.083984,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_hjIncludedInSessionSample_1838254=0; path=/; sameSite=None; secure; domain=ripost.hu; expires=Fri, 28 Apr 2023 08:11:19 GMT,consent_compliance,1682669359996.769043,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_ga_RRZJ4VY66Q=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; expires=Sun, 27 Apr 2025 08:09:25 GMT; domain=ripost.hu; ,consent_compliance,1682669365826.513916,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://ripost.hu/polyfills.6f339a6d1ca63a7b.js,consent_compliance,_ga_RRZJ4VY66Q=GS1.1.1682669061.1.1.1682669365.60.0.0; path=/; expires=Sun, 27 Apr 2025 08:09:25 GMT; domain=ripost.hu; ,consent_compliance,1682669365827.658936,consent_compliance_line

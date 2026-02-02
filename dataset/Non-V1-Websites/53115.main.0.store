@@ -1,0 +1,24 @@
+0,consent_compliance,30,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_ga=GA1.2.41789953.1682648125; path=/; expires=Sun, 27 Apr 2025 02:15:25 GMT; domain=keyingredient.com;,consent_compliance,1682648125074.574951,consent_compliance_line
+0,consent_compliance,30,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gid=GA1.2.535058861.1682648125; path=/; expires=Sat, 29 Apr 2023 02:15:25 GMT; domain=keyingredient.com;,consent_compliance,1682648125075.446045,consent_compliance_line
+0,consent_compliance,30,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gat=1; path=/; expires=Fri, 28 Apr 2023 02:16:25 GMT; domain=keyingredient.com;,consent_compliance,1682648125078.420898,consent_compliance_line
+0,consent_compliance,43,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=1; path=/; domain=keyingredient.com; expires=Sat, 29 Apr 2023 02:15:30 GMT,consent_compliance,1682648130056.149902,consent_compliance_line
+0,consent_compliance,43,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=; path=/; domain=keyingredient.com; expires=Thu, 01 Jan 1970 00:00:00 GMT,consent_compliance,1682648130056.833008,consent_compliance_line
+0,consent_compliance,37,consent_compliance,https://quantcast.mgr.consensu.org/tcfv2/cmp2.js,consent_compliance,_scor_uid=; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/,consent_compliance,1682648130539.698975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648137509.469971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648139714.675049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648142377.518066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648142893.499023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648146996.465088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648147534.808105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648150834.757080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648161823.634033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648163902.467041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648176861.009033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648179672.278076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648181445.133057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648192469.878906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648194772.983887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.keyingredient.com/,consent_compliance,1682648196449.802979,consent_compliance_line
+0,consent_compliance,46,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,addtl_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; max-age=-1; domain=www.keyingredient.com,consent_compliance,1682648196523.525879,consent_compliance_line
+0,consent_compliance,46,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,euconsent-v2=CPq7n0APq7n0AAKAvCENDBCgAAAAAAAAAAqIAAASjgEgA4ACWAZ8BHgDBAHbAO5AkQBKMAAA.YAAAAAAAAAAA;path=/;max-age=33696000;expires=Wed, 22 May 2024 02:16:36 GMT;domain=www.keyingredient.com;SameSite=Lax;secure,consent_compliance,1682648196524.990967,consent_compliance_line
+0,consent_compliance,43,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,__qca=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;,consent_compliance,1682648196574.798096,consent_compliance_line

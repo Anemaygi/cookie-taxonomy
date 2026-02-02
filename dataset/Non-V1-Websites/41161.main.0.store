@@ -1,0 +1,287 @@
+0,consent_compliance,16,consent_compliance,https://choices.consentframework.com/js/pa/20983/c/ICbBc/cmp,consent_compliance,euconsent-v2=;path=/;domain=.www.petitfute.com;max-age=0;SameSite=Lax;Secure,consent_compliance,1682588742958.842041,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_ga=GA1.2.362078652.1682588747; path=/; expires=Sat, 26 Apr 2025 09:45:46 GMT; domain=petitfute.com;,consent_compliance,1682588746725.747070,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gid=GA1.2.702384270.1682588747; path=/; expires=Fri, 28 Apr 2023 09:45:46 GMT; domain=petitfute.com;,consent_compliance,1682588746732.131104,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_dc_gtm_UA-25983395-1=1; path=/; expires=Thu, 27 Apr 2023 09:46:46 GMT; domain=petitfute.com;,consent_compliance,1682588746759.424072,consent_compliance_line
+0,consent_compliance,23,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-FP7Z57M84E&l=dataLayer&cx=c,consent_compliance,_ga_FP7Z57M84E=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; expires=Sat, 26 Apr 2025 09:45:47 GMT; domain=petitfute.com; ,consent_compliance,1682588747500.757080,consent_compliance_line
+0,consent_compliance,23,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-FP7Z57M84E&l=dataLayer&cx=c,consent_compliance,_ga_FP7Z57M84E=GS1.1.1682588747.1.0.1682588747.0.0.0; path=/; expires=Sat, 26 Apr 2025 09:45:47 GMT; domain=petitfute.com; ,consent_compliance,1682588747501.489014,consent_compliance_line
+0,consent_compliance,23,consent_compliance,https://www.googletagmanager.com/gtag/js?id=G-FP7Z57M84E&l=dataLayer&cx=c,consent_compliance,_ga=GA1.1.362078652.1682588747; path=/; expires=Sat, 26 Apr 2025 09:45:47 GMT; domain=petitfute.com; ,consent_compliance,1682588747502.235107,consent_compliance_line
+0,consent_compliance,10,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,atuserid=%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22ae15a7bd-e344-44e6-b965-5492934ff792%22%2C%22options%22%3A%7B%22end%22%3A%222024-05-28T09%3A45%3A47.948Z%22%2C%22path%22%3A%22%2F%22%7D%7D;path=/;secure;expires=Tue, 28 May 2024 09:45:47 GMT,consent_compliance,1682588747948.449951,consent_compliance_line
+0,consent_compliance,10,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,atuserid=%7B%22name%22%3A%22atuserid%22%2C%22val%22%3A%22ae15a7bd-e344-44e6-b965-5492934ff792%22%2C%22options%22%3A%7B%22end%22%3A%222024-05-28T09%3A45%3A47.951Z%22%2C%22path%22%3A%22%2F%22%7D%7D;path=/;secure;expires=Tue, 28 May 2024 09:45:47 GMT,consent_compliance,1682588747951.469971,consent_compliance_line
+0,consent_compliance,10,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,atauthority=%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22default%22%2C%22visitor_mode%22%3A%22optin%22%7D%2C%22options%22%3A%7B%22end%22%3A%222024-05-28T09%3A45%3A47.952Z%22%2C%22path%22%3A%22%2F%22%7D%7D;path=/;secure;expires=Tue, 28 May 2024 09:45:47 GMT,consent_compliance,1682588747952.481934,consent_compliance_line
+0,consent_compliance,10,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,atauthority=%7B%22name%22%3A%22atauthority%22%2C%22val%22%3A%7B%22authority_name%22%3A%22cnil%22%2C%22visitor_mode%22%3A%22exempt%22%7D%2C%22options%22%3A%7B%22end%22%3A%222024-05-28T09%3A45%3A47.954Z%22%2C%22path%22%3A%22%2F%22%7D%7D;path=/;secure;expires=Tue, 28 May 2024 09:45:47 GMT,consent_compliance,1682588747954.681885,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://itm.ivitrack.com/v1/petitfute-tag/itm.js,consent_compliance,ivi_consent_h=c1f427490e496b3487077cdf61dd6bc7;path=/;expires=Fri, 28 Apr 2023 15:45:48 GMT;SameSite=None;Secure,consent_compliance,1682588748637.791016,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://itm.ivitrack.com/v1/petitfute-tag/itm.js,consent_compliance,ivi_consent=;expires=Thu, 01 Jan 1970 00:00:01 GMT,consent_compliance,1682588748639.147949,consent_compliance_line
+0,consent_compliance,19,consent_compliance,https://ats-wrapper.privacymanager.io/ats-modules/f56be44e-6d35-434e-ad88-70fbc18056bb/ats.js,consent_compliance,_lr_geo_location_state=IDF;max-age=86400;expires=Fri, 28 Apr 2023 09:45:49 GMT;path=/,consent_compliance,1682588749941.688965,consent_compliance_line
+0,consent_compliance,19,consent_compliance,https://ats-wrapper.privacymanager.io/ats-modules/f56be44e-6d35-434e-ad88-70fbc18056bb/ats.js,consent_compliance,_lr_geo_location=FR;max-age=86400;expires=Fri, 28 Apr 2023 09:45:49 GMT;path=/,consent_compliance,1682588749942.174072,consent_compliance_line
+0,consent_compliance,19,consent_compliance,https://ats-wrapper.privacymanager.io/ats-modules/f56be44e-6d35-434e-ad88-70fbc18056bb/ats.js,consent_compliance,_lr_env=;path=/;expires=Wed, 26 Apr 2023 09:45:49 GMT,consent_compliance,1682588749962.122070,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588750273.780029,consent_compliance_line
+0,consent_compliance,43,consent_compliance,https://www.petitfute.com/libraries/algolia/algolia-insights-events/search-insights@2.2.1.js,consent_compliance,_ALGOLIA=anonymous-618ed459-1d4b-4e16-a43a-3f6948a0f589;expires=Tue, 24 Oct 2023 09:45:50 GMT;path=/,consent_compliance,1682588750701.250977,consent_compliance_line
+0,consent_compliance,19,consent_compliance,https://ats-wrapper.privacymanager.io/ats-modules/f56be44e-6d35-434e-ad88-70fbc18056bb/ats.js,consent_compliance,_lr_geo_location_state=IDF;max-age=86400;expires=Fri, 28 Apr 2023 09:45:50 GMT;path=/,consent_compliance,1682588750733.580078,consent_compliance_line
+0,consent_compliance,19,consent_compliance,https://ats-wrapper.privacymanager.io/ats-modules/f56be44e-6d35-434e-ad88-70fbc18056bb/ats.js,consent_compliance,_lr_geo_location=FR;max-age=86400;expires=Fri, 28 Apr 2023 09:45:50 GMT;path=/,consent_compliance,1682588750733.951904,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_sp_root_domain_test_1682588752611=_test_value_1682588752611; Path=/; Domain=com; SameSite=Lax,consent_compliance,1682588752611.716064,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_sp_root_domain_test_1682588752611=_test_value_1682588752611; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752614.124023,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_sp_root_domain_test_1682588752611=; Expires=Thu, 27 Apr 2023 09:45:51 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752618.301025,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_ses.d06a=*; Expires=Thu, 27 Apr 2023 10:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752622.520020,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_id.d06a=afcfb193-34ad-47a0-a1ea-0e0ac1395e8a.1682588753.1.1682588753.1682588753.ba67e2be-56f9-4039-b661-379d89913b8d; Expires=Tue, 21 May 2024 02:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752623.086914,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_id.d06a=afcfb193-34ad-47a0-a1ea-0e0ac1395e8a.1682588753.1.1682588753.1682588753.ba67e2be-56f9-4039-b661-379d89913b8d; Expires=Tue, 21 May 2024 02:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752667.279053,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_ses.d06a=*; Expires=Thu, 27 Apr 2023 10:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752667.708984,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_id.d06a=afcfb193-34ad-47a0-a1ea-0e0ac1395e8a.1682588753.1.1682588753.1682588753.ba67e2be-56f9-4039-b661-379d89913b8d; Expires=Tue, 21 May 2024 02:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752678.805908,consent_compliance_line
+0,consent_compliance,52,consent_compliance,https://p22.evorra.net/lib/prod.min.js,consent_compliance,_tr_ses.d06a=*; Expires=Thu, 27 Apr 2023 10:15:52 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588752679.249023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588752691.956055,consent_compliance_line
+0,consent_compliance,56,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=1; path=/; domain=petitfute.com; expires=Fri, 28 Apr 2023 09:45:53 GMT,consent_compliance,1682588753061.281982,consent_compliance_line
+0,consent_compliance,56,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=; path=/; domain=petitfute.com; expires=Thu, 01 Jan 1970 00:00:00 GMT,consent_compliance,1682588753062.043945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588753167.811035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588753816.489990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588754609.562012,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://tags.crwdcntrl.net/lt/c/16497/sync.min.js,consent_compliance,lotame_domain_check=petitfute.com; Domain=petitfute.com; path=/; SameSite=Lax; expires=Thu, 27 Apr 2023 09:46:05 GMT,consent_compliance,1682588755210.518066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588756944.958008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588758461.628906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588759041.253906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588759586.925049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588760163.748047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588761172.673096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588762317.456055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588762360.405029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588763129.891113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588763889.675049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588764624.986084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588766632.138916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588769019.961914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588776374.751953,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588776733.433105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588777119.333008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588777517.035889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588777878.027100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588778222.503906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588781034.871094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588781348.806885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588781780.688965,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588783604.298096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588784012.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588784349.864990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588784723.898926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588785072.461914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588785460.412109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588785817.319092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588786302.759033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588786686.694092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588787086.957031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588788787.008057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588789221.538086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588789446.090088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588789679.498047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588789968.611084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588790312.589111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588792639.750977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588792964.093994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588793218.947998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588793465.752930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588793809.339111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588794024.394043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588794302.656006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588794541.179932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588795044.507080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588795555.312988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588795773.099121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588796145.043945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588798038.782959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588798329.865967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588798585.035889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588798858.594971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799093.623047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799182.941895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799304.867920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799475.721924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799590.524902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588799651.075928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588800157.474121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588800616.011963,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588800830.514893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588800974.241943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588801237.186035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588801409.608887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588801538.048096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588802220.406982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588802510.976074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588804116.801025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588804362.752930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588804494.919922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588804793.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588804854.308105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588805053.888916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588805175.302979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588805703.846924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806060.882080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806282.797119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806451.733887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806695.263916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806805.354004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588806937.952881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588807342.283936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588807761.907959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588808579.594971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588810167.577881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588810430.534912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588810664.416016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588810755.635986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588810909.935059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588811052.039062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588811251.769043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588811353.316895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588811584.590088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588812005.558105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588812364.907959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588813477.257080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588813679.069092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588813889.593994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588814046.018066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588814146.576904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588814239.148926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588814428.177002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588814702.430908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588815302.164062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588817051.506104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588817601.139893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588817751.405029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588818039.928955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588818254.003906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588818465.275879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588818619.945068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588818844.600098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588819366.954102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588820852.012939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821146.152100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821261.320068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821445.162109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821584.870117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821755.302002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588821986.295898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588822113.079102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588822294.101074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588822604.827881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588822896.497070,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588823175.072021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588823502.491943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588824637.260986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588824842.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825008.475098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825231.748047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825413.812988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825528.687012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825889.396973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588825936.951904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588826026.781006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588826212.258057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588826656.800049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588827112.675049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588827797.777100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588829255.972900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588829467.948975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588829773.398926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588829976.500977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588830301.138916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588830721.071045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588830988.032959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588831336.086914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588831644.812988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588832071.229004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588833042.311035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588833326.229004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588833639.543945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588833986.518066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588834353.647949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588834625.697021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588835039.127930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588835347.574951,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588835904.802002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588837895.565918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588838105.245117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588838723.685059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588839084.178955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588839323.531006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588839718.727051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588840211.364990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588840551.552002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588840858.854004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588841169.835938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588841553.628906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588841902.590088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588843621.322021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588843931.377930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588844341.729004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588844677.056885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588845007.710938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588845381.504883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588845809.582031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588848069.659912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588848397.492920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588848737.906006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588849068.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588849382.763916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588850684.513916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588851135.649902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588851442.718994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588851790.592041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588852149.733887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588852538.343994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588852817.437012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588853136.034912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588853658.305908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588854811.642090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588855131.958984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588855449.616943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588855773.925049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588856113.986084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588856553.149902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588856909.167969,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588858267.487061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588858503.208984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588862243.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588862541.534912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588862872.806885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588863224.160889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588863520.593994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588864638.909912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588864938.830078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588865281.065918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588866848.323975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588867186.981934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588867523.800049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588867841.904053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588868222.260986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588868607.081055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588868991.643066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588869285.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588869620.333008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588871403.697021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588871743.916992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588872069.903076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588872420.186035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588872779.809082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588873125.791992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588873469.718994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588873784.105957,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588874185.017090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588874505.594971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588875004.434082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588877135.135986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588877407.845947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588877751.176025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588878158.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588878471.952881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588878801.843994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588879152.841064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588879491.128906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588879877.327881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588880163.149902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588881738.450928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588882041.443115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588882433.249023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588882903.052002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.petitfute.com/,consent_compliance,1682588885136.205078,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,euconsent-v2=CPq4U4APq4U4ABcAIDENDBCkAAAAAAAAAAqIIyQAARkgAAAA.x9XNYKY;path=/;max-age=33696000;SameSite=Lax;Secure,consent_compliance,1682588885143.827881,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,_tr_id.d06a=afcfb193-34ad-47a0-a1ea-0e0ac1395e8a.1682588753.1.1682588885.1682588753.ba67e2be-56f9-4039-b661-379d89913b8d; Expires=Tue, 21 May 2024 02:18:05 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588885333.547119,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,_tr_ses.d06a=*; Expires=Thu, 27 Apr 2023 10:18:05 GMT; Path=/; Domain=petitfute.com; SameSite=Lax,consent_compliance,1682588885334.060059,consent_compliance_line
+0,consent_compliance,56,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,__qca=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;,consent_compliance,1682588894001.805908,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,_ga_FP7Z57M84E=deleted; expires=Thu, 01 Jan 1970 00:00:00 GMT; path=/; expires=Sat, 26 Apr 2025 09:48:46 GMT; domain=petitfute.com; ,consent_compliance,1682588927020.489990,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://www.petitfute.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js,consent_compliance,_ga_FP7Z57M84E=GS1.1.1682588747.1.1.1682588926.0.0.0; path=/; expires=Sat, 26 Apr 2025 09:48:46 GMT; domain=petitfute.com; ,consent_compliance,1682588927048.746094,consent_compliance_line

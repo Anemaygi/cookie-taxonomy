@@ -1,0 +1,35 @@
+0,consent_compliance,16,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_ga=GA1.2.1282403430.1682562469; path=/; expires=Sat, 26 Apr 2025 02:27:49 GMT; domain=prnt.sc;,consent_compliance,1682562469451.812012,consent_compliance_line
+0,consent_compliance,16,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gid=GA1.2.1333642778.1682562469; path=/; expires=Fri, 28 Apr 2023 02:27:49 GMT; domain=prnt.sc;,consent_compliance,1682562469452.827881,consent_compliance_line
+0,consent_compliance,16,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gat=1; path=/; expires=Thu, 27 Apr 2023 02:28:49 GMT; domain=prnt.sc;,consent_compliance,1682562469457.388916,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=1; path=/; domain=prnt.sc; expires=Fri, 28 Apr 2023 02:27:51 GMT,consent_compliance,1682562471151.309082,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=; path=/; domain=prnt.sc; expires=Thu, 01 Jan 1970 00:00:00 GMT,consent_compliance,1682562471154.477051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562493783.038086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562502462.777100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562503668.000977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562505628.564941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562508311.219971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562512281.915039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562537860.794922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562542943.959961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562548873.333008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562551412.814941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562571448.475098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562575043.827881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562580100.221924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562580444.260986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562582712.787109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562586676.040039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562588563.218994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562589851.175049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562590842.510986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562593922.485107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562594790.506104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562595554.978027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562596766.741943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562597886.186035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562599345.100098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562600268.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://prnt.sc/,consent_compliance,1682562602268.187012,consent_compliance_line
+0,consent_compliance,29,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,addtl_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; max-age=-1; domain=prnt.sc,consent_compliance,1682562602348.166992,consent_compliance_line
+0,consent_compliance,29,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,euconsent-v2=CPq4U4APq4U4AAKAvDENDBCgAAAAAAAAAAwIAAASjgEgA4ACWAZ8BHgDBAHbAO5AkQBKMAAA.YAAAAAAAAAAA;path=/;max-age=33696000;expires=Tue, 21 May 2024 02:30:02 GMT;domain=prnt.sc;SameSite=Lax;secure,consent_compliance,1682562602350.064941,consent_compliance_line
+0,consent_compliance,22,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,__qca=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;,consent_compliance,1682562602392.236084,consent_compliance_line

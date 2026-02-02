@@ -1,0 +1,17 @@
+0,consent_compliance,17,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=1; path=/; domain=makeitmeme.com; expires=Sat, 29 Apr 2023 07:52:49 GMT,consent_compliance,1682668369859.489990,consent_compliance_line
+0,consent_compliance,17,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,_dlt=; path=/; domain=makeitmeme.com; expires=Thu, 01 Jan 1970 00:00:00 GMT,consent_compliance,1682668369861.165039,consent_compliance_line
+0,consent_compliance,5,consent_compliance,https://makeitmeme.com/static/js/main.da4766f5.chunk.js,consent_compliance,poki_erruid=hydn6wefq; path=/; samesite=none; secure; max-age=15552000; domain=makeitmeme.com,consent_compliance,1682668379950.970947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668386156.367920,consent_compliance_line
+0,consent_compliance,18,consent_compliance,https://a.poki.com/prebid/prebid7.22.0.js,consent_compliance,_pbjs_userid_consent_data=8316820400794021 ;expires=Sun, 28 May 2023 07:53:07 GMT; path=/; SameSite=Lax,consent_compliance,1682668387823.212891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668395807.629883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668397645.712891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668398526.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668399726.190918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668401194.346924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668402424.940918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668406489.539062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://makeitmeme.com/,consent_compliance,1682668408890.985107,consent_compliance_line
+0,consent_compliance,92,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,addtl_consent=; expires=Thu, 01 Jan 1970 00:00:00 UTC; path=/; max-age=-1; domain=makeitmeme.com,consent_compliance,1682668409013.506104,consent_compliance_line
+0,consent_compliance,92,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,euconsent-v2=CPq7n0APq7n0AAKAvDENDCCgAAAAAAAAAAYgAAASjgEgA4ACWAZ8BHgDBAHbAO5AkQBKMAAA.YAAAAAAAAAAA;path=/;max-age=33696000;expires=Wed, 22 May 2024 07:53:29 GMT;domain=makeitmeme.com;SameSite=Lax;secure,consent_compliance,1682668409015.492920,consent_compliance_line
+0,consent_compliance,92,consent_compliance,https://cmp.quantcast.com/tcfv2/47/cmp2ui-en.js,consent_compliance,addtl_consent=1~;path=/;max-age=33696000;expires=Wed, 22 May 2024 07:53:29 GMT;domain=makeitmeme.com;SameSite=Lax;secure,consent_compliance,1682668409016.241943,consent_compliance_line
+0,consent_compliance,17,consent_compliance,https://secure.quantserve.com/quant.js,consent_compliance,__qca=; path=/; expires=Thu, 01 Jan 1970 00:00:01 GMT;,consent_compliance,1682668409083.858887,consent_compliance_line

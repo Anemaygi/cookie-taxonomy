@@ -1,0 +1,303 @@
+0,consent_compliance,45,consent_compliance,https://www.googletagmanager.com/gtm.js?id=GTM-KKZVWR,consent_compliance,_gcl_au=1.1.1655688554.1685327160; path=/; expires=Sun, 27 Aug 2023 02:26:00 GMT; domain=debka.com,consent_compliance,1685327160056.174072,consent_compliance_line
+0,consent_compliance,58,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_ga=GA1.2.1164733794.1685327161; path=/; expires=Wed, 28 May 2025 02:26:01 GMT; domain=debka.com;,consent_compliance,1685327161097.489014,consent_compliance_line
+0,consent_compliance,58,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gid=GA1.2.2097004086.1685327161; path=/; expires=Tue, 30 May 2023 02:26:01 GMT; domain=debka.com;,consent_compliance,1685327161098.717041,consent_compliance_line
+0,consent_compliance,58,consent_compliance,https://www.google-analytics.com/analytics.js,consent_compliance,_gat_gtag_UA_4866447_4=1; path=/; expires=Mon, 29 May 2023 02:27:01 GMT; domain=debka.com;,consent_compliance,1685327161103.481934,consent_compliance_line
+0,consent_compliance,67,consent_compliance,https://snap.licdn.com/li.lms-analytics/insight.min.js,consent_compliance,ln_or=eyIyMjQzMTIxIjoiZCJ9;expires=Tue, 30 May 2023 02:26:04 GMT;path=/,consent_compliance,1685327164492.993896,consent_compliance_line
+0,consent_compliance,77,consent_compliance,https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202305230101/show_ads_impl_with_ama_fy2021.js?client=ca-pub-2696995675084296&plah=www.debka.com,consent_compliance,GoogleAdServingTest=Good,consent_compliance,1685327166023.251953,consent_compliance_line
+0,consent_compliance,77,consent_compliance,https://pagead2.googlesyndication.com/pagead/managed/js/adsense/m202305230101/show_ads_impl_with_ama_fy2021.js?client=ca-pub-2696995675084296&plah=www.debka.com,consent_compliance,GoogleAdServingTest=;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327166024.268066,consent_compliance_line
+0,consent_compliance,85,consent_compliance,https://tr.outbrain.com/cachedClickId?marketerId=00eb88aeace24379109603734b209ac267,consent_compliance,outbrain_cid_fetch=true; expires=Mon, 29 May 2023 02:31:12 GMT; path=/;,consent_compliance,1685327172212.032959,consent_compliance_line
+0,consent_compliance,86,consent_compliance,https://partner.googleadservices.com/gampad/cookie.js?domain=www.debka.com&callback=_gfp_s_&client=ca-pub-2696995675084296,consent_compliance,__gads=ID=3ab3239895349da8-22690b549db40063:T=1685327172:RT=1685327172:S=ALNI_MahbJQO8ye-QieDPev-fNUpOezAgg;domain=debka.com;path=/;expires=Sat, 22 Jun 2024 02:26:12 GMT,consent_compliance,1685327172526.875977,consent_compliance_line
+0,consent_compliance,86,consent_compliance,https://partner.googleadservices.com/gampad/cookie.js?domain=www.debka.com&callback=_gfp_s_&client=ca-pub-2696995675084296,consent_compliance,__gpi=UID=00000c0c168a8623:T=1685327172:RT=1685327172:S=ALNI_MYlMRpTEPyIx3Bn0WJCwuYXQUZj9Q;domain=debka.com;path=/;expires=Sat, 22 Jun 2024 02:26:12 GMT,consent_compliance,1685327172527.240967,consent_compliance_line
+0,consent_compliance,89,consent_compliance,https://connect.facebook.net/signals/config/742096245912121?v=2.9.104&r=stable,consent_compliance,_fbp=fb.0.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:14 GMT;domain=.com;SameSite=Lax;path=/,consent_compliance,1685327174870.777100,consent_compliance_line
+0,consent_compliance,89,consent_compliance,https://connect.facebook.net/signals/config/742096245912121?v=2.9.104&r=stable,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:14 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327174872.042969,consent_compliance_line
+0,consent_compliance,89,consent_compliance,https://connect.facebook.net/signals/config/742096245912121?v=2.9.104&r=stable,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:15 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327175380.487061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327181398.322021,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:21 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327181408.358887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327182662.082031,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:22 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327182666.035889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327184281.804932,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:24 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327184287.727051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327185932.101074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327186186.475098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327186188.176025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327187450.072021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327187453.114014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327189232.168945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327189233.415039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327189747.668945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327189751.445068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327191069.335938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327191070.881104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327191601.125000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327191605.197021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327192883.847900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327192887.730957,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327193360.603027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327193363.906982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327196170.850098,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:36 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327196177.766113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327198632.164062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327198633.440918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327200994.792969,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327200995.996094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327202234.125977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327202242.157959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327202820.600098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327202825.305908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327204128.982910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327204131.364990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327205332.642090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327206021.774902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327206023.125977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327206396.137939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327207918.775879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327207920.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327209458.308105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327209465.403076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327211639.241943,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:51 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327211647.783936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327212578.678955,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:52 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327212581.811035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327213260.418945,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:53 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327213263.207031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327214006.967041,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:54 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327214010.709961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327215902.419922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327215905.394043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327216480.574951,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327216482.298096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327219475.114990,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:26:59 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327219482.891113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327221800.490967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327221802.091064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327223279.976074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327223569.425049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327223571.375000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327225222.996094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327225227.251953,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327226372.202881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327226897.031982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327226899.775879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327227529.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327227532.928955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327228825.502930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327228828.643066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327230663.717041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327230665.551025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327231176.974121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327231178.294922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327232892.840088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327232894.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327233993.385986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327233999.010986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327235008.864990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327235010.202881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327236214.083984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327236216.138916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327237183.065918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327237184.668945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327238152.800049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327238485.691895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327238953.427979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327238955.758057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327240389.072998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327240391.479004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327242866.311035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327242867.354004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327244028.197998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327244031.654053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327245120.592041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327245122.443115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327246177.822021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327246180.081055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327247221.554932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327247224.957031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327249727.370117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327250003.031982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327250006.629883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327251957.029053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327251959.381104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327254239.139893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327254240.446045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327255751.698975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327256096.405029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327256103.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327257994.270020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327258342.215088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327258343.501953,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327259780.749023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327259783.110107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327261067.981934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327261069.518066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327262806.027100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327262807.134033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327264274.979004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327264279.858887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327265463.939941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327265464.946045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327266053.460938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327266055.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327267762.343994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327267764.827881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327269159.043945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327269172.416992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327269671.365967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327269676.312988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327271214.050049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327271215.957031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327273073.775879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327273075.263916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327274501.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327274502.806885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327275636.508057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327275639.060059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327276719.081055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327276722.349121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327277734.166016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327277736.131104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327279370.333984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327279372.293945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327280621.238037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327280625.487061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327281751.428955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327281752.812012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327283075.372070,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327283079.936035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327284111.596924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327284112.946045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327284743.772949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327284748.160889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327286082.878906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327286084.285889,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327286640.665039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327286642.138916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327288403.741943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327288716.436035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327288718.162109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327289322.749023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327289324.822998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327291505.135010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327291506.822998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327293093.513916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327293096.256104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327293646.789062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327293649.270996,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327295067.466064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327295069.645020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327295633.718994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327295638.985107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327298496.294922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327298497.618896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327299186.139893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327299187.975098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327300520.441895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327300991.413086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327300992.908936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327301588.833008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327301591.179932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327302936.271973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327302942.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327303475.204102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327303478.656982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327304735.530029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327304737.476074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327305592.470947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327305856.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327305858.114990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327307155.853027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327307157.725098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327308722.493896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327308723.586914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327309322.331055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327309324.340088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327310865.603027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327310867.280029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327312649.323975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327312650.571045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327313369.874023,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327313371.906982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327314774.371094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327314778.943115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327315291.532959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327315297.681885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327316549.555908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327316960.197998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327316960.561035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327318522.412109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327319056.819092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327319057.937988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327319633.521973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327319635.440918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327320951.132080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327320953.143066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327322447.849121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327322684.885986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327322686.291016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327323254.008057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327323257.736084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327326337.039062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327326338.458008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327328382.687012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327328384.333984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327330100.802002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327330102.603027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327331761.152100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327331762.250000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327332292.019043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327332293.604004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327333588.061035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327333593.143066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327334140.054932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327334142.332031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327336882.593018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327336884.350098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327337419.677002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327337421.822021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327339806.908936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327340072.201904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327340076.945068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327340654.662109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327340656.113037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327342962.353027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327342963.615967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327343636.852051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327343641.104004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327344982.052002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327344983.523926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327345571.479004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327345575.947998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327347299.156982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327347618.184082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327347619.491943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327349047.510010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327349048.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327349531.224121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327349535.791992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327350788.956055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327351072.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327351074.013916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327352350.742920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327352763.344971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327352764.478027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327353255.048096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327353260.287109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327354531.441895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327354533.102051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327356212.978027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327356214.602051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327357380.893066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327357641.019043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327357642.607910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327358153.308105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327358155.607910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327361180.232910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327361181.737061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://www.debka.com/,consent_compliance,1685327375131.086914,consent_compliance_line
+0,consent_compliance,80,consent_compliance,https://connect.facebook.net/en_US/fbevents.js,consent_compliance,_fbp=fb.1.1685327174870.467731803;expires=Sun, 27 Aug 2023 02:29:35 GMT;domain=.debka.com;SameSite=Lax;path=/,consent_compliance,1685327375139.663086,consent_compliance_line
+0,consent_compliance,100,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=web_iab_tcf_v2_wall_executable,consent_compliance,FCCDCF=;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327375215.789062,consent_compliance_line
+0,consent_compliance,100,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=web_iab_tcf_v2_wall_executable,consent_compliance,FCCDCF=;domain=www.debka.com;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327375216.601074,consent_compliance_line
+0,consent_compliance,100,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=web_iab_tcf_v2_wall_executable,consent_compliance,FCCDCF=;domain=debka.com;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327375217.488037,consent_compliance_line
+0,consent_compliance,100,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/exm=kernel_loader,loader_js_executable/ed=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=web_iab_tcf_v2_wall_executable,consent_compliance,FCCDCF=%5Bnull%2Cnull%2Cnull%2C%5B%22CPshy4APshy4AEsACDENDGCgAAAAAAAAACiQAAAMEgBAGfAYIAAA.YAAAAAAAAAA%22%2C%221~%22%2C%228A7C8188-15AD-47B7-A143-FBF402C33A28%22%5D%2Cnull%2Cnull%2C%5B%5D%5D;domain=debka.com;path=/;expires=Sat, 22 Jun 2024 02:29:35 GMT,consent_compliance,1685327375218.642090,consent_compliance_line
+0,consent_compliance,99,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=kernel_loader,loader_js_executable,consent_compliance,FCNEC=;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327376580.222900,consent_compliance_line
+0,consent_compliance,99,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=kernel_loader,loader_js_executable,consent_compliance,FCNEC=;domain=www.debka.com;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327376581.082031,consent_compliance_line
+0,consent_compliance,99,consent_compliance,/_/mss/boq-content-ads-contributor/_/js/k=boq-content-ads-contributor.ContributorServingResponseClientJs.en_US.X3QwVUo03cI.es5.O/d=1/rs=AJlcJMzNTYTLp9lswOBbWGiC1RtJPrIP0w/m=kernel_loader,loader_js_executable,consent_compliance,FCNEC=;domain=debka.com;path=/;expires=Sun, 01 Feb 1970 08:00:00 GMT,consent_compliance,1685327376582.101074,consent_compliance_line

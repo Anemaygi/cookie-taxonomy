@@ -1,0 +1,563 @@
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140429.290039,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337140430.250000,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140432.072998,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337140432.404053,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140446.528076,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337140447.110107,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140447.512939,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337140447.898926,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140448.313965,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337140448.556885,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337140448.875977,consent_compliance_line
+0,consent_compliance,6,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337140449.092041,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_pbjs_userid_consent_data=3524755945110770 ; path=/; expires=Wed, 28 Jun 2023 05:12:23 GMT; samesite=lax,consent_compliance,1685337143745.440918,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_pbjs_userid_consent_data=3524755945110770 ; path=/; expires=Wed, 28 Jun 2023 05:12:23 GMT; samesite=lax,consent_compliance,1685337143745.952881,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337143750.655029,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337143752.768066,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337143758.445068,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337143759.883057,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337143764.993896,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337143767.236084,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337143770.261963,consent_compliance_line
+0,consent_compliance,59,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337143748= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337143771.990967,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154217.352051,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154233.577881,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154243.345947,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154248.587891,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154251.371094,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154260.678955,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154264.385010,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154268.905029,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154271.367920,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154274.600098,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154275.956055,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:34 GMT; samesite=lax,consent_compliance,1685337154283.245117,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154355.902100,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154359.485107,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154363.247070,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:34 GMT; samesite=lax,consent_compliance,1685337154371.021973,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337154591.396973,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337154595.906982,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337154597.674072,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337154605.416992,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337154606.615967,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337154615.477051,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337154622.137939,consent_compliance_line
+0,consent_compliance,15,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337154589= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337154634.061035,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:39 GMT; samesite=lax,consent_compliance,1685337159415.749023,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:39 GMT; samesite=lax,consent_compliance,1685337159422.225098,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:39 GMT; samesite=lax,consent_compliance,1685337159435.460938,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:12:39 GMT; samesite=lax,consent_compliance,1685337159438.127930,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:39 GMT; samesite=lax,consent_compliance,1685337159439.566895,consent_compliance_line
+0,consent_compliance,179,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:12:39 GMT; samesite=lax,consent_compliance,1685337159442.445068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337165680.531006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337167168.724121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337167182.452881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337167625.960938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337167636.977051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337168149.472900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337168163.000000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337168510.939941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337168519.281982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337168993.468994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337169001.186035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337169878.121094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337169887.862061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337171394.137939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337171402.909912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337171758.636963,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337171771.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337172157.165039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337172162.412109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337173384.147949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337173393.791016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337173731.250000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337173741.413086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337174074.395020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337174078.863037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337174527.864990,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337174538.582031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176217.422119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176223.763916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176527.570068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176540.419922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176900.333984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337176906.544922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337177343.027100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337177346.919922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337177937.861084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337177957.429932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337179302.451904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337179311.979004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337179680.342041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337179689.976074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180016.426025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180023.073975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180583.685059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180591.094971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180916.777100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337180923.868896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337182347.892090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337182353.173096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337182741.500977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337182752.649902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337183080.191895,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337183094.019043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337183412.927002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337183710.770996,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337183723.860107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337184084.688965,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337184091.611084,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337185585.477051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337185591.886963,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337185927.551025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337185933.329102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337186361.489014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337186370.481934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337186800.628906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337186812.968018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337187645.808105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337187658.960938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337188981.180908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337189327.981934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337189332.833008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337190390.483887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337190398.425049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337190751.652100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337190766.922119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337191109.519043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337191121.783936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337191725.425049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337191738.180908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337192137.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337192142.260986,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337193467.262939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337193475.017090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337193871.129883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337193879.698975,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194204.636963,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194210.437988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194542.666016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194551.643066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194874.218018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337194877.712891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196247.173096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196256.407959,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196566.563965,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196570.766113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196943.812988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337196964.902100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337197355.420898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337197365.254883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337198883.922119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337198891.514893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337199252.145020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337199267.772949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337199575.679932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337199581.593994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337199934.915039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337200252.612061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337200257.388916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337200647.099121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337200652.854004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202100.739014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202106.500977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202466.606934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202476.714111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202814.543945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337202819.055908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203154.599121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203163.064941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203514.184082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203522.522949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203895.199951,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337203900.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337205433.583008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337205444.608887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337205789.927979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337205798.344971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206112.758057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206120.075928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206440.440918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206447.485107,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206866.604980,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337206879.335938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337207618.387939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337207625.202881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209166.561035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209172.656006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209497.987061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209507.312012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209887.427979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337209900.214111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211179.081055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211183.537109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211551.925049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211557.642090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211933.947021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337211945.029053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213250.568115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213257.197998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213576.429932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213584.791992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213891.646973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337213897.447021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337214236.457031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337214241.837891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337214562.702881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337214570.461914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216076.412109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216085.131104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216454.118896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216460.724121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216777.335938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337216781.589111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337217153.495117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337217158.529053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337218478.908936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337218487.783936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337218817.604980,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337218822.489014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337219110.051025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337219122.310059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337220416.977051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337220432.978027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337220728.541016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337220732.718018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337221062.024902,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337221069.981934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337221537.991943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337221547.672119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337222963.319092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337222969.301025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223284.113037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223292.220947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223623.319092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223629.162109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223930.679932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337223937.947998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337225938.284912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337225945.602051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337226291.439941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337226301.529053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337226631.031982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337226637.266113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337226991.919922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337227455.295898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337227463.652100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337227868.808105,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337227880.033936,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229216.956055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229225.423096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229578.909912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229586.195068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229917.233887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337229924.011963,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337230254.250000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337230259.409912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337231742.145020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337231749.431885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232089.664062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232093.243896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232509.968994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232515.174072,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232838.189941,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337232844.815918,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337233192.275879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337233197.621094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337234501.478027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337234505.137939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337234862.047119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337234869.666992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337235225.076904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337235237.896973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337236853.792969,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337238637.210938,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242118.208984,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337242118.904053,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242119.572021,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_tattles=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337242120.013916,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242151.368896,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337242152.530029,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242153.231934,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337242153.701904,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242155.579102,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337242157.083984,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337242160.876953,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337242168.254883,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_pbjs_userid_consent_data=3524755945110770 ; path=/; expires=Wed, 28 Jun 2023 05:14:04 GMT; samesite=lax,consent_compliance,1685337244257.563965,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_pbjs_userid_consent_data=3524755945110770 ; path=/; expires=Wed, 28 Jun 2023 05:14:04 GMT; samesite=lax,consent_compliance,1685337244258.300049,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337244262.194092,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337244262.771973,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337244267.495117,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337244267.929932,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337244268.912109,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337244269.191895,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337244270.270020,consent_compliance_line
+0,consent_compliance,1590,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/dfp.lazy.pbjs.js?_dc=1684220449,consent_compliance,_gd1685337244260= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337244270.545898,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337248219.739990,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:08 GMT; samesite=lax,consent_compliance,1685337248969.460938,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:08 GMT; samesite=lax,consent_compliance,1685337249001.910889,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249004.129883,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249021.090088,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:09 GMT; samesite=lax,consent_compliance,1685337249027.249023,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:09 GMT; samesite=lax,consent_compliance,1685337249033.819092,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:09 GMT; samesite=lax,consent_compliance,1685337249036.129883,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:09 GMT; samesite=lax,consent_compliance,1685337249061.157959,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249178.188965,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249195.902100,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249208.106934,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:09 GMT; samesite=lax,consent_compliance,1685337249212.298096,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:10 GMT; samesite=lax,consent_compliance,1685337250209.540039,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:10 GMT; samesite=lax,consent_compliance,1685337250224.667969,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:10 GMT; samesite=lax,consent_compliance,1685337250239.568115,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_user_id=; path=/; expires=Sun, 28 May 2023 05:14:10 GMT; samesite=lax,consent_compliance,1685337250246.601074,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:10 GMT; samesite=lax,consent_compliance,1685337250257.678955,consent_compliance_line
+0,consent_compliance,1663,consent_compliance,https://cdn.segment.com/analytics.js/v1/YNwPRuYDOjrAr7O9PCSVIw1QoK0Oimn6/analytics.min.js,consent_compliance,ajs_anonymous_id=47275565-5e5b-4381-98d8-4b3295c798d5; path=/; expires=Tue, 28 May 2024 05:14:10 GMT; samesite=lax,consent_compliance,1685337250277.250000,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337251002.882080,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002=1; path=/ ; domain=journaltimes.com; samesite=lax,consent_compliance,1685337251018.885986,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337251023.573975,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002= ; path=/ ; domain=journaltimes.com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337251033.656982,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337251037.469971,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002=1; path=/ ; domain=com; samesite=lax,consent_compliance,1685337251048.593994,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337251051.727051,consent_compliance_line
+0,consent_compliance,1503,consent_compliance,https://bloximages.chicago2.vip.townnews.com/journaltimes.com/content/tncms/live/libraries/flex/components/ads_dfp/resources/scripts/prebid7.9.0.js?_dc=1684220449,consent_compliance,_gd1685337251002= ; path=/ ; domain=com; expires=Thu, 01 Jan 1970 00:00:01 GMT; samesite=lax,consent_compliance,1685337251054.806885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337251325.802979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337251337.021973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337251720.178955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337251725.971924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337252050.070068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337252055.002930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337252495.818115,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337252506.243896,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337253153.964111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337253172.137939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337253628.146973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337253642.297119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337255155.168945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337255160.594971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337255604.812012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337255610.728027,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337257075.233887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337257082.580078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337257401.245117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337257627.571045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337257637.764893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337258005.674072,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337258011.077881,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337258329.737061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337258341.079102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337259662.832031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337259670.093018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260042.980957,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260051.141113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260374.367920,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260381.792969,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260707.962891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337260733.655029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337261111.372070,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337261120.112061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337262353.446045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337262360.634033,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337262728.216064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337262735.982910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337263083.659912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337263089.576904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264256.291992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264261.257080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264627.708008,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264635.635010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264944.695068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337264951.653076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337266452.559082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337266458.793945,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337266874.541016,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337266884.375000,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337267253.373047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337267486.746094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337267493.903076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337267832.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337267846.263916,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337268181.220947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337268192.387939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337268576.595947,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337268586.246094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270023.020996,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270028.602051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270361.159912,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270647.102051,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270656.894043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270978.587891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337270991.256104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337271297.510010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337271309.387939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337272593.646973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337272601.483887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337272918.260010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337272931.288086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337273235.974121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337273240.677002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337274756.481934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337274761.596924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337275104.310059,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337275110.490967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337275463.003906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337275475.231934,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337275767.071045,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337276066.832031,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337276076.802002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337276414.051025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337276422.393066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337276844.080078,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337277502.012939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337277511.392090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279000.732910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279023.212891,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279318.843018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279327.497070,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279684.797119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337279693.428955,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337280101.383057,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337280501.177979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337280510.925049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337282070.612061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337282322.431885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337282332.144043,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337282746.716064,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337282757.585938,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283127.209961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283139.541992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283451.139893,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283469.299072,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283835.951904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337283839.873047,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337285411.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337285419.562988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337285791.266113,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286078.684082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286085.052002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286447.851074,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286457.292969,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286801.520020,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337286807.094971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337288401.754883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337288415.280029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337288749.833984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337288758.576904,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337289085.239014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337289092.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337289436.676025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337289873.275879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337289878.349121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337291963.343994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337292279.468018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337292283.528076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337292663.798096,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337292671.547119,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337292997.959961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337293002.290039,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337293356.614014,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337293370.277100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337293721.414062,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337293734.461914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337295367.241943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337295379.694092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337295709.608887,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337295714.312012,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337296040.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337296045.471924,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337296387.287109,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337296398.250977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337297818.385010,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337297823.468994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298146.431885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298149.722900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298511.194092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298514.772949,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298888.592041,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337298895.177979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337300601.112061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337300612.222900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337300981.302002,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337300988.944092,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337301333.525879,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337301337.961914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337301756.904053,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337303886.996094,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337303890.544922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337305352.589111,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337305360.974121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337305705.278076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337305710.877930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306027.643066,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306044.507080,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306364.865967,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306388.021973,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306742.197998,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337306745.968018,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337308154.153076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337308162.252930,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337308500.800049,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337308504.512939,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337309732.812988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337309740.445068,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337310083.738037,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337310091.245117,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337311414.044922,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337311425.975098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337311781.474121,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337311787.090088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337312130.704102,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337312140.051025,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337312478.267090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337312481.843994,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337313731.062988,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337313738.538086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314102.517090,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314111.778076,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314410.781006,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314416.866943,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314762.844971,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337314766.729004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316129.629883,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316138.559082,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316463.666992,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316470.177979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316818.081055,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337316826.987061,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337318690.700928,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337318695.847900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319074.350098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319086.461914,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319408.715088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319416.750977,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319724.597900,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337319730.083984,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321162.156982,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321165.840088,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321619.054932,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321626.947021,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321963.273926,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337321976.378906,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337322328.979004,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337322338.256104,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337322659.334961,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337322668.306885,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324090.824951,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324099.177979,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324441.232910,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324444.936035,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324788.850098,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337324794.413086,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337326131.655029,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337327430.402100,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337328732.305908,consent_compliance_line
+2,consent_compliance,REAL_USER_CLICK,consent_compliance,https://journaltimes.com/,consent_compliance,1685337329798.506104,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_uuid=1e8c8360-edc3-4731-b75b-5f519f686d2c;secure; path=/; domain=journaltimes.com; max-age=15724800; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337329824.621094,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_uuid=1e8c8360-edc3-4731-b75b-5f519f686d2c;secure; path=/; domain=journaltimes.com; max-age=15724800; samesite=lax,consent_compliance,1685337329825.467041,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=j3jsJR4C6ci4ALixY-PWcKXZ46F30t6aUAwBpWADba8g7D_uh3VSUdaHBOWDgPpwwC8hkgdLXbp24Bmgpyy3BRXOAWTBTwhTW69ybTxQFX1LT8C_NPAQVv0cY_X5wg0wkNiepKfa3UAYYQ8jGzQhGU00K3WrunDezxVWVfwRA86OBIQhggaBXaeN8SiesP-JSEcIrHyFTI4HPxFR-mR7zEJMjz5zqDxN6wZHATdfc_m5E9VLMVuiicc8AsPoU9Izehs9JMYtmVGqhmAHxIUKCsPmIjvFh8ldKqH5VNuwgOobHQaJWFMbhrq5RniyTeAk7t_x5cMwlJBwYNc81v8FSyL3EodtTG_2fy2w5gEIczs1rCLS-Qh1cDyGYUJT0uZ7Zy00AZQzadQmhIuJdobmnN7hxJogiNb7F4ZcocqJkoZ00Y3RYyxzxhOl4N9pz79YVEKTI0gJRWbRorZCcOeE1anF62xKzaVKMUm6Pfy2TofUiPUcG5clYdq6aRceHL9eWVvy7yp6n4wefujltbukTu3_jFo2Dr92ypJqpYJrmQ499AqlrUx_tTBgQSRjbRLmbhvLWTus0d_KV6o-j54_f24fTMsoRIHTKacooM_-9g_OzmH84CRK3BqwBQm2CF28CSdknG7kb_XTG7L7Q9HRs0Y1M3w3jcVd4Ikat2yI2kfOzgeOIzghU-8Z2WYY8449rqy3FLdXN5mudg_E-uMDsM4V8OuGVcJh506qzarvkKdNonuo7vN2nr-GuW4BUBWj4AUBitE4767FOUIHEJGWJe9xeqvbxuz-gP8nwQrvdzIlRdUDeqrfq0igZVnn34hSs4NqWOjgA0irff2LnV1KWNg_5DEqri4Z6oO2thtSRlVDti_Mkb3bL2xOAvkY_DWif4_5UB7-dvJnYrWrAmOUHycu5BFCCI278WEcC_nH6BG01xIVNqdosrEZ58887_FiT-737FK-x3xaOKc0S_4jOCScwmroCcBDpKl4uVKrAUoyWPfeE-klEpqdOMl_btKUQ1_KBXxC3f-YVncsF1uqvHkYz_bDz055eM3M060ZgURL9mZgEs0kCzappwm8kf87Iv0GZsoV4nwjpvki2QHYmX8SszDY_xUAnfRwPqdo45Nrfv1npWVs3GSO_UNJT5lTdJpOwbbh2uIn68G7kMNWMt1d8Zt-DwofDj85PP760h93QzQnEUvj2VQdCcyBgsjyZQGDlU_qVOjdBAqRdO_YpRhVzHbL4EavXywuG32RfW1vV8f_u48nnPtowI3n5RhRptyxrRDgUVFV9sQDDfqzrN6mlgrPqlQDHkYVQLZzVsgGQf-cjXb9V10Cln9kqxg7GOaE253RV_3t9x4qoJNrM03wCk033SXgf78uMCPVEXuZ0yobQ6WgirGISaUASNkEXOg3Lu9s_jCrDd9KLRfRaUbrkc3QySM2fPnsPJRMcdmFW45von-X2ukl7mDiGsJq19-Ab28IFsNnqdkM-k_R2TOYJXw4uISSzrzptTlapXOexelrhRNtGP23AqzBMHgf4jiBBDI7z2tVsk_rrVcLWztv5OyWf1YXg7lkPCzTw1RBwBRlAKT8hdHFCsb4Lw4n1ifVBa3A3-5I1siuxu0PF6Evjjfx7UuQm2agt646gH40X600j3pZwyTQZFg-jYqyx2MO5C4QynBRvTlHEwbSJK8Svf4pctvmoCnZbMjyBNW3knZ-8EAeHgkZARk4P0TZAXytC2sN4nvpJw--qUolT9BY7JP1twtNkJfH6TQFQBjjxx93TPYn8M3sYQ24zam10RLBwErRJctKWeGffcgYQ4r1bRUMarbUc1doWOIRlrUeHPZ5pVuyAKk0R-zB_aldUgt8H_asboKpNids7kUTPdL-_iLb7E-8Z3AAWt92dj5Vu-Yh4WxRu1lEn1Nbima0ijwwSckTWP4Q2lHrGl8rwE-IkRlsC6rs8vWQw1OK38QIMiH8XtuPFA==;secure; path=/; domain=journaltimes.com; max-age=15724800; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337329827.467041,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager=j3jsJR4C6ci4ALixY-PWcKXZ46F30t6aUAwBpWADba8g7D_uh3VSUdaHBOWDgPpwwC8hkgdLXbp24Bmgpyy3BRXOAWTBTwhTW69ybTxQFX1LT8C_NPAQVv0cY_X5wg0wkNiepKfa3UAYYQ8jGzQhGU00K3WrunDezxVWVfwRA86OBIQhggaBXaeN8SiesP-JSEcIrHyFTI4HPxFR-mR7zEJMjz5zqDxN6wZHATdfc_m5E9VLMVuiicc8AsPoU9Izehs9JMYtmVGqhmAHxIUKCsPmIjvFh8ldKqH5VNuwgOobHQaJWFMbhrq5RniyTeAk7t_x5cMwlJBwYNc81v8FSyL3EodtTG_2fy2w5gEIczs1rCLS-Qh1cDyGYUJT0uZ7Zy00AZQzadQmhIuJdobmnN7hxJogiNb7F4ZcocqJkoZ00Y3RYyxzxhOl4N9pz79YVEKTI0gJRWbRorZCcOeE1anF62xKzaVKMUm6Pfy2TofUiPUcG5clYdq6aRceHL9eWVvy7yp6n4wefujltbukTu3_jFo2Dr92ypJqpYJrmQ499AqlrUx_tTBgQSRjbRLmbhvLWTus0d_KV6o-j54_f24fTMsoRIHTKacooM_-9g_OzmH84CRK3BqwBQm2CF28CSdknG7kb_XTG7L7Q9HRs0Y1M3w3jcVd4Ikat2yI2kfOzgeOIzghU-8Z2WYY8449rqy3FLdXN5mudg_E-uMDsM4V8OuGVcJh506qzarvkKdNonuo7vN2nr-GuW4BUBWj4AUBitE4767FOUIHEJGWJe9xeqvbxuz-gP8nwQrvdzIlRdUDeqrfq0igZVnn34hSs4NqWOjgA0irff2LnV1KWNg_5DEqri4Z6oO2thtSRlVDti_Mkb3bL2xOAvkY_DWif4_5UB7-dvJnYrWrAmOUHycu5BFCCI278WEcC_nH6BG01xIVNqdosrEZ58887_FiT-737FK-x3xaOKc0S_4jOCScwmroCcBDpKl4uVKrAUoyWPfeE-klEpqdOMl_btKUQ1_KBXxC3f-YVncsF1uqvHkYz_bDz055eM3M060ZgURL9mZgEs0kCzappwm8kf87Iv0GZsoV4nwjpvki2QHYmX8SszDY_xUAnfRwPqdo45Nrfv1npWVs3GSO_UNJT5lTdJpOwbbh2uIn68G7kMNWMt1d8Zt-DwofDj85PP760h93QzQnEUvj2VQdCcyBgsjyZQGDlU_qVOjdBAqRdO_YpRhVzHbL4EavXywuG32RfW1vV8f_u48nnPtowI3n5RhRptyxrRDgUVFV9sQDDfqzrN6mlgrPqlQDHkYVQLZzVsgGQf-cjXb9V10Cln9kqxg7GOaE253RV_3t9x4qoJNrM03wCk033SXgf78uMCPVEXuZ0yobQ6WgirGISaUASNkEXOg3Lu9s_jCrDd9KLRfRaUbrkc3QySM2fPnsPJRMcdmFW45von-X2ukl7mDiGsJq19-Ab28IFsNnqdkM-k_R2TOYJXw4uISSzrzptTlapXOexelrhRNtGP23AqzBMHgf4jiBBDI7z2tVsk_rrVcLWztv5OyWf1YXg7lkPCzTw1RBwBRlAKT8hdHFCsb4Lw4n1ifVBa3A3-5I1siuxu0PF6Evjjfx7UuQm2agt646gH40X600j3pZwyTQZFg-jYqyx2MO5C4QynBRvTlHEwbSJK8Svf4pctvmoCnZbMjyBNW3knZ-8EAeHgkZARk4P0TZAXytC2sN4nvpJw--qUolT9BY7JP1twtNkJfH6TQFQBjjxx93TPYn8M3sYQ24zam10RLBwErRJctKWeGffcgYQ4r1bRUMarbUc1doWOIRlrUeHPZ5pVuyAKk0R-zB_aldUgt8H_asboKpNids7kUTPdL-_iLb7E-8Z3AAWt92dj5Vu-Yh4WxRu1lEn1Nbima0ijwwSckTWP4Q2lHrGl8rwE-IkRlsC6rs8vWQw1OK38QIMiH8XtuPFA==;secure; path=/; domain=journaltimes.com; max-age=15724800; samesite=lax,consent_compliance,1685337329828.175049,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337329828.874023,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; domain=journaltimes.com; max-age=-99999999; samesite=lax,consent_compliance,1685337329829.309082,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax; expires=1 Jan 1970 00:00:00 GMT;,consent_compliance,1685337329829.870117,consent_compliance_line
+0,consent_compliance,1481,consent_compliance,https://cmp.osano.com/16CVqQSid6k3038vU/fef0f8b2-698d-45ee-89c5-d8fbf51fbfb7/osano.js,consent_compliance,osano_consentmanager_expdate=;secure; path=/; max-age=-99999999; samesite=lax,consent_compliance,1685337329830.550049,consent_compliance_line
