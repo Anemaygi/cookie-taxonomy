@@ -1,4 +1,23 @@
-## 📢 Analysis Overview
+## 📢 Analysis Overview & Methodology
+
+
+In the paper, they define vulnerability #1 as "Positive consents registered before user actions" as "Consent strings indicating a non-empty list of consented TCF purposes and vendors are detected before users make choices on cookie banners". 
+
+To detect this violation, CSChecker identifies websites that adopt TCF v2.1 in the automated crawling, record the cookie writes and extracts network activities with consent strings from performance logs. They report a violation if the website used a positive consent string before user interaction with the banner.  
+
+The paper detects binarily if a website has this violation, however some websites may offer a bigger exposure to privacy threats based on the structure of the cookies they are writing before user consent. 
+
+To characterize this heterogeneity and rank the websites based on how severe is the violation, I introduce a cookie taxonomy and define a "severity" as a metric for the risk of privacy threats enabled by cookies written before user consent.
+
+Then, I developed a script to calculate the severity measure of each website of the dataset based on the logs of events before user consent from CSChecker, separated by websites that violates Violation #1 (also defined as "V1" accross the project) and websites that do not (defined as "Non-V1"). All the websites present on the logs are used in the analysis. They are both able to send cookies before user interaction, but Non-V1 does that in non-compliance with TCF v2.1.
+
+This script generates files in "output/", which contains
+```
+[rank_id], [domain], [severity], [number of cookies]
+```
+for all the websites, separated by V1 and Non-V1.
+
+Finally, this data is plotted in a density plot in order to determine distribution shape. Statistical tests (such as T-Test) are also applied to verify significant statistical difference between severity scores from V1 and Non-V1
 
 
 <br/>

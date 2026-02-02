@@ -1,17 +1,3 @@
-_[first draft]_
-
-# 💭 Motivation
-
-In the paper, they define vulnerability #1 as "Positive consents registered before user actions" as "Consent strings indicating a non-empty list of consented TCF purposes and vendors are detected before users make choices on cookie banners". 
-
-To detect this violation, CSChecker identifies websites that adopt TCF v2.1 in the automated crawling, record the cookie writes and extracts network activities with consent strings from performance logs. They report a violation if the website used a positive consent string before user interaction with the banner. Once the consent string is set, the website authorizes to request and write cookies to purposes and vendors. 
-
-The paper detects binarily if a website has this violation, however some websites may offer a bigger exposure to privacy threats based on the cookies they are writing before user consent. 
-
-To characterize this heterogeneity and rank the websites based on how severe is the violation, we introduce a cookie taxonomy and define a "severity" as a metric for the risk of privacy threats enabled by cookies written before user consent.
-
-<br/>
-
 # 🍪 Cookie Taxonomy 
 
 The taxonomy is faceted and describe Party (First or Third), Duration (Session or permanent), Security (Secure or Non-secure) and Information Capacity (High or Low) for each written cookie.
