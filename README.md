@@ -78,6 +78,10 @@ You can regenerate plots on `plots.ipynb`
 
 ## 📊 Summary of Results
 
+Besides the [Cookie Taxonomy and Severity metric definition](https://gitlab.cs.mcgill.ca/billy/comp555-p1-t10/-/blob/main/analysis-3/CookieTaxonomy.md?ref_type=heads#%EF%B8%8F-severity-measure), it is found that websites that commit \textit{Violation \#1} have a more concentrated distribution in terms of their Website Severity metric. Interestingly, through statistical tests, websites that to not commit this violation seem to have a less dense distribution, yet a higher value for the Severity metric. 
+
+![Density plot](analysis-3/img/density_plot.png)
+
 
 
 <br/>
