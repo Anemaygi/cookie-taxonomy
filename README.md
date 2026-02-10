@@ -1,10 +1,19 @@
-<center><h1>Non-Compliance and Privacy Risk Surface on Cookie-Banner Interaction</h1>
+<div align="center">
 
-Paper ID: [11 - CSChecker: Revisiting GDPR and CCPA Compliance of Cookie Banners
+<img src="./img/cookieimg.png" alt="NextFlix logo" width="400" height="auto"> 
+
+<h1>Non-Compliance and Privacy Risk Surface on Cookie-Banner Interaction</h1>
+
+**Paper ID:** [11 - CSChecker: Revisiting GDPR and CCPA Compliance of Cookie Banners
 on the Web](https://dl.acm.org/doi/pdf/10.1145/3597503.3639159).
 
-</center>
+</div>
 
+> This analysis was conducted as part of Project 1 in [Information Privacy COMP 555](https://coursecatalogue.mcgill.ca/courses/comp-555/index.html) @ McGill. Its goal was to provide a complementary analysis to the selected paper by examining privacy threats.
+
+
+
+<br/>
 
 ## Cookie-based privacy risk severity metric for websites
 
@@ -28,6 +37,8 @@ Proposition of a [cookie taxonomy](./CookieTaxonomy.md) based on privacy threat 
 Used Grammarly to correct english grammar and wording.
 
 <br/>
+
+----
 
 ### 📢 Analysis Overview & Methodology
 
