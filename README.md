@@ -1,7 +1,10 @@
-# Group 10 Project 1: Non-Compliance and Privacy Risk Surface on Cookie-Banner Interaction
+<center><h1>Non-Compliance and Privacy Risk Surface on Cookie-Banner Interaction</h1>
 
 Paper ID: [11 - CSChecker: Revisiting GDPR and CCPA Compliance of Cookie Banners
 on the Web](https://dl.acm.org/doi/pdf/10.1145/3597503.3639159).
+
+</center>
+
 
 ## Cookie-based privacy risk severity metric for websites
 
