@@ -7,6 +7,8 @@ on the Web](https://dl.acm.org/doi/pdf/10.1145/3597503.3639159).
 
 _By Giane Mayumi Galhard (ggalha)_
 
+![Summary](./img/summary.png)
+
 I first propose a [Cookie Taxonomy](./CookieTaxonomy.md) based on privacy threat modeling from Linddun[¹](https://linddun.org/)
  and Solove's Taxonomy of Privacy[²](https://enterprivacy.com/wp-content/uploads/2017/08/A-taxonomy-of-privacy.pdf). Using this taxonomy, I assign weights to cookie characteristics and define a [cookie-level privacy risk severity metric](./CookieTaxonomy.md#%EF%B8%8F-severity-measure). Then, I aggregate the cookie-level severities into a [website-level severity score](./CookieTaxonomy.md#website-level), normalized by the number of cookies.
 
