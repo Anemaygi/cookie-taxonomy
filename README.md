@@ -1,4 +1,30 @@
-## 📢 Analysis Overview & Methodology
+# Group 10 Project 1: Non-Compliance and Privacy Risk Surface on Cookie-Banner Interaction
+
+Paper ID: [11 - CSChecker: Revisiting GDPR and CCPA Compliance of Cookie Banners
+on the Web](https://dl.acm.org/doi/pdf/10.1145/3597503.3639159).
+
+## Cookie-based privacy risk severity metric for websites
+
+_By Giane Mayumi Galhard (ggalha)_
+
+I first propose a [Cookie Taxonomy](./CookieTaxonomy.md) based on privacy threat modeling from Linddun[¹](https://linddun.org/)
+ and Solove's Taxonomy of Privacy[²](https://enterprivacy.com/wp-content/uploads/2017/08/A-taxonomy-of-privacy.pdf). Using this taxonomy, I assign weights to cookie characteristics and define a [cookie-level privacy risk severity metric](./CookieTaxonomy.md#%EF%B8%8F-severity-measure). Then, I aggregate the cookie-level severities into a [website-level severity score](./CookieTaxonomy.md#website-level), normalized by the number of cookies.
+
+Additionally, I implemented a [script](./pipeline.py) that computes severity scores from CSChecker logs, focusing on cookies written before user consent. All the websites on the logs are used in the analysis. Websites are separated into the ones that violate Vulnerabily #1 (register positive consent string before user actions) and the ones that do not. Despite complying with TCF v2.1, websites that do not violate Vulnerability #1 demonstrate a [statistically significant](./plots.ipynb) higher privacy risk severity than the violating websites, as shown through t-testing (9.442), p-value (2.171e-17) and a [density plot](./img/density_plot.png).
+
+More detailed methodology and results can be found below.
+
+**Outcome**
+
+Proposition of a [cookie taxonomy](./CookieTaxonomy.md) based on privacy threat risk, definition of a [severity metric](./CookieTaxonomy.md#%EF%B8%8F-severity-measure) derived from cookies written before user interaction, and [comparison](./img/density_plot.png) between websites that violate Violation #1 from the paper and those that do not.
+
+**GenAI Disclosure**
+
+Used Grammarly to correct english grammar and wording.
+
+<br/>
+
+### 📢 Analysis Overview & Methodology
 
 
 In the paper, they define vulnerability #1 as "Positive consents registered before user actions" as "Consent strings indicating a non-empty list of consented TCF purposes and vendors are detected before users make choices on cookie banners". 
@@ -22,10 +48,10 @@ Finally, this data is plotted in a density plot in order to determine distributi
 
 <br/>
 
-## 📁 Project Structure
+### 📁 Project Structure
 
 ```
-analysis-1
+.
 ├── dataset/                                      # Result of experiments from the paper
 │   ├── Non-V1-Websites/                          # Websites with no Violation#1
 │   │   └── [rank_id].[main/sub].[count].store    # Record cookies
@@ -49,7 +75,7 @@ analysis-1
 
 <br/>
 
-## 💻 Usage
+### 💻 Usage
 
 0. Create a virtual environment _(optional)_ [\[1\]](https://www.w3schools.com/python/python_virtualenv.asp)
 
@@ -76,11 +102,11 @@ You can regenerate plots on `plots.ipynb`
 
 <br/>
 
-## 📊 Summary of Results
+### 📊 Summary of Results
 
-Besides the [Cookie Taxonomy and Severity metric definition](https://gitlab.cs.mcgill.ca/billy/comp555-p1-t10/-/blob/main/analysis-3/CookieTaxonomy.md?ref_type=heads#%EF%B8%8F-severity-measure), it is found that websites that commit \textit{Violation \#1} have a more concentrated distribution in terms of their Website Severity metric. Interestingly, through statistical tests, websites that to not commit this violation seem to have a less dense distribution, yet a higher value for the Severity metric. 
+Besides the [Cookie Taxonomy and Severity metric definition](./CookieTaxonomy.md?ref_type=heads#%EF%B8%8F-severity-measure), it is found that websites that commit _Violation \#1_ have a more concentrated distribution in terms of their Website Severity metric. Interestingly, through statistical tests, websites that to not commit this violation seem to have a less dense distribution, yet a higher value for the Severity metric. 
 
-![Density plot](analysis-3/img/density_plot.png)
+![Density plot](./img/density_plot.png)
 
 
 
