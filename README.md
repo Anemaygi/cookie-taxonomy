@@ -10,7 +10,7 @@ _By Giane Mayumi Galhard (ggalha)_
 I first propose a [Cookie Taxonomy](./CookieTaxonomy.md) based on privacy threat modeling from Linddun[¹](https://linddun.org/)
  and Solove's Taxonomy of Privacy[²](https://enterprivacy.com/wp-content/uploads/2017/08/A-taxonomy-of-privacy.pdf). Using this taxonomy, I assign weights to cookie characteristics and define a [cookie-level privacy risk severity metric](./CookieTaxonomy.md#%EF%B8%8F-severity-measure). Then, I aggregate the cookie-level severities into a [website-level severity score](./CookieTaxonomy.md#website-level), normalized by the number of cookies.
 
-Additionally, I implemented a [script](./pipeline.py) that computes severity scores from CSChecker logs, focusing on cookies written before user consent. All the websites on the logs are used in the analysis. Websites are separated into the ones that violate Vulnerabily #1 (register positive consent string before user actions) and the ones that do not. Despite complying with TCF v2.1, websites that do not violate Vulnerability #1 demonstrate a [statistically significant](./plots.ipynb) higher privacy risk severity than the violating websites, as shown through t-testing (9.442), p-value (2.171e-17) and a [density plot](./img/density_plot.png).
+Additionally, I implemented a [script](./src/pipeline.py) that computes severity scores from CSChecker logs, focusing on cookies written before user consent. All the websites on the logs are used in the analysis. Websites are separated into the ones that violate Vulnerabily #1 (register positive consent string before user actions) and the ones that do not. Despite complying with TCF v2.1, websites that do not violate Vulnerability #1 demonstrate a [statistically significant](./plots.ipynb) higher privacy risk severity than the violating websites, as shown through t-testing (9.442), p-value (2.171e-17) and a [density plot](./img/density_plot.png).
 
 More detailed methodology and results can be found below.
 
@@ -64,11 +64,12 @@ Finally, this data is plotted in a density plot in order to determine distributi
 │   ├── non_v1.txt                                
 │   └── v1.txt
 ├── CookieTaxonomy.md                             # Cookie Taxonomy and Severity metric description
-├── models.py                                     # Classes for the analysis
-├── utils.py                                      # Util functions for the analysis
-├── pipeline.py                                   # Analysis pipeline
-├── plots.ipynb                                   # Plots and statistics of results
-├── requirements.txt                              
+├── src/                             
+│   ├── models.py                                 # Classes for the analysis
+│   ├── utils.py                                  # Util functions for the analysis
+│   ├── pipeline.py                               # Analysis pipeline
+│   └── requirements.txt
+├── plots.ipynb                                   # Plots and statistics of results                  
 └── README.md                
 ```
 
@@ -80,10 +81,10 @@ Finally, this data is plotted in a density plot in order to determine distributi
 0. Create a virtual environment _(optional)_ [\[1\]](https://www.w3schools.com/python/python_virtualenv.asp)
 
 
-
 1. Install the requirements.txt
 
 ```bash
+cd src
 pip install requirements.txt
 ```
 
